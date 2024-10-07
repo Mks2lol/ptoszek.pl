@@ -64,6 +64,7 @@ const SEARCHES = [
   'ptak',
   'kanarek',
   'jaczup'
+  'grubyptok'
 ]
 
 const VIDEOS = [
